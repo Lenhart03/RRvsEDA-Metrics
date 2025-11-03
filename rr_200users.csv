@@ -1,0 +1,2 @@
+Architecture,Users,Spawn Rate,Run Time (s),Method,Name,Total Requests,Failures,Success Rate (%),Requests/sec,Median (ms),Average (ms),Min (ms),Max (ms),P90 (ms),P95 (ms),P99 (ms)
+Request-Response,200,40,30,POST,POST /orders [RR],1455,0,100.0,48.5,3400.0,3368.0,3253.5,3589.28,3500.0,3500.0,3600.0

@@ -1,0 +1,2 @@
+Architecture,Users,Spawn Rate,Run Time (s),Method,Name,Total Requests,Failures,Success Rate (%),Requests/sec,Median (ms),Average (ms),Min (ms),Max (ms),P90 (ms),P95 (ms),P99 (ms)
+Event-Driven,100,20,30,POST,POST /orders [EDA],100,0,100.0,24.05,76,82.06,28.67,152.86,120.0,140.0,150.0
